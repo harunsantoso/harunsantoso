@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harunsantoso
 - 👀 I’m interested in frontend webdev
 - 🌱 I’m currently learning html&css
-- 💞️ I’m looking to collaborate on coolcss
+- 💞️ I’m looking to collaborate on awesomecss
 - 📫 How to reach me halunsantoso@gmail.com
 
 <!---
